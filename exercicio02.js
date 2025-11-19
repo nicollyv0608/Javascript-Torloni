@@ -14,20 +14,20 @@ switch (semana) {
         console.log("quinta-feira")
         break;
 
-        case "5":
+    case "5":
         console.log("sexta-feira")
         break;
 
-case "6":
+    case "6":
         console.log("sabado")
         break;
 
-case "7":
+    case "7":
         console.log("domingo")
         break;
 
     default:
-        console.log("não tem nenhum dia com esse numero!")
+        console.log("Nenhum dia encontrado com esse numero")
         break;
 
 }

@@ -55,4 +55,4 @@ switch (senha) {
 }
 
 window.alert("Login feito com sucesso!")
-console.log("Apresenta mensagem na tela") .
+console.log("Apresenta mensagem na tela") 
